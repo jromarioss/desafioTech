@@ -6,7 +6,7 @@ Este é um projeto desenvolvido como parte do Desafio Técnico Front-end utiliza
 
 A aplicação consiste em uma série de perguntas que são exibidas uma de cada vez. O usuário pode selecionar uma opção como resposta e avançar para a próxima pergunta. No final, o score do usuário é exibido com base nas respostas corretas e incorretas.
 
-Acessar o projeto: [Clique para acessar o desafio](https://desafio-tech-omega.vercel.app/)
+Acessar o projeto: <a href="https://desafio-tech-omega.vercel.app/" target='_blank'>Clique para acessar o desafio</a>
 
 
 ## Tecnologias Utilizadas
